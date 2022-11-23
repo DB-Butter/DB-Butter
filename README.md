@@ -6,7 +6,7 @@
 - 💞️ I’m looking for a full-time position where I can develop my programming skills. As a React Specialist I would thrive in a front-end role!
 
 
-- 📫 How to reach me... 
+- 📫 How to reach me:
 - Email: Devan.Babcock@outlook.com
 - Phone: +1 847-406-0797
 - Discord: DB-Butter#5341
