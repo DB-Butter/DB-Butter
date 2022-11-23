@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DB-Butter
+- 👋 Hi, I’m Devan Babcock @DB-Butter
 
 
 - 👀 I’m interested in developing beauftiful front-end applications that clients and customers love!
